@@ -2,7 +2,7 @@
 
 [![npm version][npm-version-src]][npm-version-href]
 [![npm downloads][npm-downloads-src]][npm-downloads-href]
-[![Circle CI][circle-ci-src]][circle-ci-href]
+[![Github Actions CI][github-actions-ci-src]][github-actions-ci-href]
 [![Codecov][codecov-src]][codecov-href]
 [![License][license-src]][license-href]
 
@@ -105,17 +105,17 @@ Insipired by [nuxtjs.org](https://github.com/nuxt/nuxtjs.org/tree/master/modules
 Copyright (c) Nuxt Community
 
 <!-- Badges -->
-[npm-version-src]: https://img.shields.io/npm/v/@nuxtjs/global-components/latest.svg?style=flat-square
+[npm-version-src]: https://img.shields.io/npm/v/@nuxtjs/global-components/latest.svg
 [npm-version-href]: https://npmjs.com/package/@nuxtjs/global-components
 
-[npm-downloads-src]: https://img.shields.io/npm/dt/@nuxtjs/global-components.svg?style=flat-square
+[npm-downloads-src]: https://img.shields.io/npm/dt/@nuxtjs/global-components.svg
 [npm-downloads-href]: https://npmjs.com/package/@nuxtjs/global-components
 
-[circle-ci-src]: https://img.shields.io/circleci/project/github/nuxt-community/global-components.svg?style=flat-square
-[circle-ci-href]: https://circleci.com/gh/nuxt-community/global-components
+[github-actions-ci-src]: https://github.com/nuxt-community/global-components/workflows/ci/badge.svg
+[github-actions-ci-href]: https://github.com/nuxt-community/global-components/actions?query=workflow%3Aci
 
-[codecov-src]: https://img.shields.io/codecov/c/github/nuxt-community/global-components.svg?style=flat-square
+[codecov-src]: https://img.shields.io/codecov/c/github/nuxt-community/global-components.svg
 [codecov-href]: https://codecov.io/gh/nuxt-community/global-components
 
-[license-src]: https://img.shields.io/npm/l/@nuxtjs/global-components.svg?style=flat-square
+[license-src]: https://img.shields.io/npm/l/@nuxtjs/global-components.svg
 [license-href]: https://npmjs.com/package/@nuxtjs/global-components

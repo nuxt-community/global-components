@@ -10,6 +10,13 @@
 
 [📖 **Release Notes**](./CHANGELOG.md)
 
+
+## :warning: Important
+
+NuxtJS Team released [@nuxt/components](https://github.com/nuxt/components) to auto import components when used in templates, allowing better performances and features.
+
+If you want to migrate from this module, you will simply have to remove the `.global` suffix.
+
 ## Usage
 
 Suffix your components with `.global.{ext}` to declare your global components.
